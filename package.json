@@ -23,7 +23,7 @@
     "gatsby-source-filesystem": "^1.5.31",
     "gatsby-transformer-remark": "^1.7.40",
     "gatsby-transformer-sharp": "^1.6.22",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.20",
     "typeface-merriweather": "0.0.43",
     "typeface-montserrat": "0.0.43",
     "typography-theme-wordpress-2016": "^0.15.10"
@@ -34,7 +34,7 @@
     "gh-pages": "^1.1.0",
     "prettier": "^1.12.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/rishabh570/blog",
   "keywords": [
     "gatsby"
   ],
@@ -42,7 +42,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/rishabh570/blog.git"
   },
   "scripts": {
     "dev": "gatsby develop",
